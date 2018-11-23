@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SRC</string>
+    <string name="habilitar">HABILITAR</string>
+    <string name="deshabilitar">DESHABILITAR</string>
 </resources>
